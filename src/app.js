@@ -15,6 +15,6 @@ try {
     document.getElementById('month').innerText = monthOfTheYear();
 } catch(err) {}
 
-// 
+// add
 exports.dayOfTheWeek = dayOfTheWeek;
 exports.monthOfTheYear = monthOfTheYear;
